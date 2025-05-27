@@ -8,5 +8,3 @@ describe('Set de Pruebas spec', () => {
    cy.contains('.eVNpHGjtxRBq_gLOfGDr.LQNqh2U1kzYxREs65IJu', 'Cypress Documentation').click()
   })
 })
-
-ß
